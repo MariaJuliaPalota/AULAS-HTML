@@ -1,0 +1,16 @@
+h1{
+  color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+}
+h2{
+  color: darkorchid;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: darkseagreen;
+}
+
+p{ 
+  color: deeppink;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: burlywood;
+}
